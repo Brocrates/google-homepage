@@ -4,6 +4,24 @@
     display: block;}
 .center{
     display:block;
-    margin: 0 auto;
-    width: 272;
-    height: 92}
+    margin: 0 auto;}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+li{
+    display: inline;
+    padding: 0 10px;
+}
+.searchbar button{
+    display: inline-block;
+    text-align: center;
+    
+    border:none;
+    background-color:#e2e2e2
+}
+.footer {
+    background-color:#f2f2f2;
+}
